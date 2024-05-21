@@ -1,6 +1,6 @@
 # react-query wrapper
 
-If you want to use MMKV with [react-query](https://tanstack.com/query/v4/docs/plugins/persistQueryClient), follow further steps:
+If you want to use MMKV with [react-query](https://tanstack.com/query/latest/docs/framework/react/overview), follow further steps:
 
 1. Install `react-query` persist packages
 
@@ -46,4 +46,4 @@ const App = () => {
 };
 ```
 
-For more information check their official [docs](https://tanstack.com/query/v4/docs/plugins/persistQueryClient#persistqueryclientprovider)
+For more information check their official [docs](https://tanstack.com/query/latest/docs/framework/react/plugins/persistQueryClient#persistqueryclientprovider)
